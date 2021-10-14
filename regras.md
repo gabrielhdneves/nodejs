@@ -1,4 +1,4 @@
-# NLW Valoriza
+# Valoriza
 
 ## Regras
 
